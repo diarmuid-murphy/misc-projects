@@ -1,0 +1,19 @@
+input: thanks for the add!
+       [01234 567 89] <--- Example of position of characters in a string
+
+output: ThAnKs FoR ThE AdD!
+
+input:
+output:
+
+prompt the user for a string
+collect the string and store it in a variable
+
+identify which ones are uppercase and which ones are lowercase
+    get the length of the string (strlen) 
+    odds and evens (skip spaces)
+    
+variables
+functions
+loops
+
